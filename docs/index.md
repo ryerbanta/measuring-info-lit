@@ -1,4 +1,4 @@
-{% include footer.html %}
+{% include header.md %}
 # Engaging Faculty in Information Literacy Conversations and Assessment
 Abstract here
 ## Introduction
