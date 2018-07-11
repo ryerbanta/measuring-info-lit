@@ -1,1 +1,1 @@
-# measuring-info-lit
+# Measuring Information Literacy
